@@ -35,6 +35,23 @@ FriendFusion is a social networking platform project built using React and Node.
 - **Frontend Code:** [FriendFusion Client](https://github.com/Atik-Sahariyar/FriendFusion-client)
 - **Backend Code:** [FriendFusion Server](https://github.com/Atik-Sahariyar/FriendFusion-server)
 
+#### Project 2: Online Course Platform
+
+This project consists of both frontend and backend components for an online course platform.
+
+##### Frontend - Online Course Client
+
+This is the client-side application designed using React and Vite for an online course platform. It provides a user-friendly interface for students to browse courses, enroll in classes, and interact with instructors.
+
+- **Live Demo:** [Online Course Client Live](https://disillusioned-rabbit.surge.sh/)
+- **Frontend Code:** [Online Course Client Repository](https://github.com/Atik-Sahariyar/online-course-client)
+
+##### Backend - Online Course Server
+
+The backend server for the online course platform is built using Express.js and MongoDB. It handles user authentication, course management, payments, and related functionalities.
+
+- **Backend Code:** [Online Course Server Repository](https://github.com/Atik-Sahariyar/online-course-server)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)](https://git.io/streak-stats)
 
