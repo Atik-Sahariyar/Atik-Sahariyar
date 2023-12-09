@@ -24,7 +24,17 @@ I'm Atik Sahariyar, an aspiring MERN stack developer, continuously learning and 
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FFD700?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
-- 💬 Ask me about Web Development
+
+### My Projects:
+
+#### Project 1: FriendFusion
+
+FriendFusion is a social networking platform project built using React and Node.js/Express.
+
+- **Live Link:** [FriendFusion Live](https://glossy-anger.surge.sh/)
+- **Frontend Code:** [FriendFusion Client](https://github.com/Atik-Sahariyar/FriendFusion-client)
+- **Backend Code:** [FriendFusion Server](https://github.com/Atik-Sahariyar/FriendFusion-server)
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)](https://git.io/streak-stats)
 
