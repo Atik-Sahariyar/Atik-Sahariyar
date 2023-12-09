@@ -25,7 +25,3 @@ I'm Atik Sahariyar, an aspiring MERN stack developer, continuously learning and 
 ### Achievements:
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Atik-Sahariyar&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Contributions:
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Atik-Sahariyar/contributions?format=svg&private=false)
-![GitHub metrics](https://metrics.lecoq.io/Atik-Sahariyar)
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Atik-Sahariyar)
