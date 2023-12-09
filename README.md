@@ -8,7 +8,7 @@ I'm Atik Sahariyar. Aspiring MERN stack developer. Learning and growing. On a jo
 Skills: / REACT / JS /Node/ MongoDB / Mongoose/ HTML / CSS / Tailwind / DaisyUI
 
 - 💬 Ask me about Web Development 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=whatsapp-dark2&border_radius=5.4&card_width=499&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)](https://git.io/streak-stats)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Atik-Sahariyar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/atik-sahariyar-a93500234//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/md.atiksahariyar?mibextid=9R9pXO)  
 
