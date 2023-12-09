@@ -5,6 +5,12 @@
 
 I'm Atik Sahariyar, an aspiring MERN stack developer, continuously learning and growing on a journey to become a top-notch web developer.
 
+### Connect with Me:
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Atik-Sahariyar)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atik-sahariyar-a93500234/)
+[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/md.atiksahariyar)
+
+
 ### Skills:
 / REACT / JS / Node / MongoDB / Mongoose / HTML / CSS / Tailwind / DaisyUI
 
@@ -12,10 +18,6 @@ I'm Atik Sahariyar, an aspiring MERN stack developer, continuously learning and 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)](https://git.io/streak-stats)
 
-### Connect with Me:
-[![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Atik-Sahariyar)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atik-sahariyar-a93500234/)
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/md.atiksahariyar)
 
 ### GitHub Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
