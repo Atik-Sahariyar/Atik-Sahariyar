@@ -30,6 +30,16 @@
 ![DaisyUI](https://img.shields.io/badge/DaisyUI-FFD700?style=for-the-badge&logo=tailwind-css&logoColor=black)
 
 
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)](https://git.io/streak-stats)
+
+
+### GitHub Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atik-Sahariyar&show_icons=true)
+
 ### My Projects:
 
 #### Project 1: FriendFusion
@@ -65,14 +75,6 @@ The Online Group Study project focuses on facilitating online group study sessio
 - **Server Side Code:** [Online Group Study - Server Side](https://github.com/Atik-Sahariyar/online-group-study-server)
 - **Frontend Code:** [Online Group Study - Client Side](https://github.com/Atik-Sahariyar/online-group-study-client-side)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)](https://git.io/streak-stats)
-
-
-### GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atik-Sahariyar&show_icons=true)
 
 ### Achievements:
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Atik-Sahariyar&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
