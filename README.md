@@ -9,7 +9,7 @@
 - 💬 Ask me about anything related to web development and creating engaging user interfaces.
 - 🌟 Passionate about delivering seamless and immersive web experiences.
 - 📫 Reach out to me at atiksahariyar88@gmail.com.
-- 
+
 ### Connect with Me:
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Atik-Sahariyar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atik-sahariyar-a93500234/)
