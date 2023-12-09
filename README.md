@@ -1,10 +1,15 @@
 ![Web Developer](https://media.licdn.com/dms/image/D5616AQHjArypnkC5qA/profile-displaybackgroundimage-shrink_350_1400/0/1700356312225?e=1707350400&v=beta&t=99hKBmsY_AlsU5hOpheHmFeMT819df4EVdKuJI2bunY)
 
 # Hi there 👋, I'm Atik Sahariyar
-### Web Developer
+🌱 Aspiring MERN stack developer, continuously learning and growing in the world of web development. Passionate about crafting exceptional web experiences and on a journey to become a top-notch web developer. 🚀
 
-I'm Atik Sahariyar, an aspiring MERN stack developer, continuously learning and growing on a journey to become a top-notch web developer.
+## About Me:
 
+- 🔭 I’m currently honing my skills in the MERN (MongoDB, Express.js, React, Node.js) stack.
+- 💬 Ask me about anything related to web development and creating engaging user interfaces.
+- 🌟 Passionate about delivering seamless and immersive web experiences.
+- 📫 Reach out to me at atiksahariyar88@gmail.com.
+- 
 ### Connect with Me:
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)](https://github.com/Atik-Sahariyar)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atik-sahariyar-a93500234/)
