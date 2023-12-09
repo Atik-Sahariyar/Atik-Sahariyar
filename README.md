@@ -52,6 +52,13 @@ The backend server for the online course platform is built using Express.js and 
 
 - **Backend Code:** [Online Course Server Repository](https://github.com/Atik-Sahariyar/online-course-server)
 
+#### Project 3: Online Group Study
+
+The Online Group Study project focuses on facilitating online group study sessions.
+
+- **Live Link:** [Online Group Study](https://dist-nine-navy.vercel.app/)
+- **Server Side Code:** [Online Group Study - Server Side](https://github.com/Atik-Sahariyar/online-group-study-server)
+- **Fro
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)](https://git.io/streak-stats)
 
