@@ -35,7 +35,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atik-Sahariyar&theme=whatsapp-dark2&border_radius=5.4&card_width=500&type=png)
 
 ### GitHub Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Atik-Sahariyar&show_icons=true)
 
