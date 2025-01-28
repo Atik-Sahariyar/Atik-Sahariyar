@@ -15,6 +15,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atik-sahariyar-a93500234/)
 [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/md.atiksahariyar)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atik-Sahariyar)
 
 ### Skills:
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
