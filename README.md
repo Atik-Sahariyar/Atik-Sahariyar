@@ -35,7 +35,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Atik-Sahariyar)
 
 ### GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)
 
 ### My Projects:
 
