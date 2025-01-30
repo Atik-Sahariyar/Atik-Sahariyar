@@ -37,16 +37,6 @@
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atik-Sahariyar&layout=compact&langs_count=8)
 
-### My Projects:
-
-#### Project 1: FriendFusion
-
-FriendFusion is a social networking platform project built using React and Node.js/Express.
-
-- **Live Link:** [FriendFusion Live](https://glossy-anger.surge.sh/)
-- **Frontend Code:** [FriendFusion Client](https://github.com/Atik-Sahariyar/FriendFusion-client)
-- **Backend Code:** [FriendFusion Server](https://github.com/Atik-Sahariyar/FriendFusion-server)
-
 
 
 ### Achievements:
