@@ -1,4 +1,4 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQHjArypnkC5qA/profile-displaybackgroundimage-shrink_350_1400/0/1700356312225?e=1707350400&v=beta&t=99hKBmsY_AlsU5hOpheHmFeMT819df4EVdKuJI2bunY)
+![Web Developer](https://www.linkedin.com/in/atik-sahariyar-a93500234/overlay/background-image/)
 
 # Hi there 👋, I'm Atik Sahariyar
 🌱 Aspiring MERN stack developer, continuously learning and growing in the world of web development. Passionate about crafting exceptional web experiences and on a journey to become a top-notch web developer. 🚀
