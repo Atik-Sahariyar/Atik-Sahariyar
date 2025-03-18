@@ -40,3 +40,4 @@
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Atik-Sahariyar&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+updt
